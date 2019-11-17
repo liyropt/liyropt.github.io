@@ -1,1 +1,7 @@
-theme: jekyll-theme-tactile
+# Site settings
+title: "Yan-Rong Li's Homepage"
+name: "Yan-Rong Li 李彦荣"
+email: liyanrong@mail.ihep.ac.cn
+url: https://liyropt.github.io
+description: "This is Yan-Rong Li's Homepage"
+keywords: "Astrophysics"

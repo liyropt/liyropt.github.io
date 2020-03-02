@@ -1,10 +1,62 @@
 # Site settings
-title: "Yan-Rong Li's Homepage"
-name: "Yan-Rong Li 李彦荣"
+title: Yan-Rong Li's Homepage
 email: liyanrong@mail.ihep.ac.cn
 url: https://liyropt.github.io
-description: "This is Yan-Rong Li's Homepage"
-keywords: "Astrophysics"
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Astronomy - Scientific Programming"
+meta_author: Li Yan-Rong
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Yan-Rong Li
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/liyropt
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/liyropt
+  - title: bitbucket
+    url: http://bitbucket.org/liyropt
+  - title: github
+    url: http://github.com/liyropt
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 19B Yuquan Road, Shijingshan District
+  - line: Beijing 100049, China
+
+# Credits content
+credits: 'This website is based on Jekyll theme Freelancer, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

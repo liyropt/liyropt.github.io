@@ -2,7 +2,7 @@
 layout: Dynamical Modeling of Broad-line Regions in Active Galactic Nuclei
 modal-id: 6
 date: 2016-08-15
-img: research_1.jpg
+img: research_1.png
 alt: image-alt
 project-date: Aug 2016
 client: <a href='https://iopscience.iop.org/article/10.3847/1538-4357/aaee6b'>ApJ, 869, 2</a>

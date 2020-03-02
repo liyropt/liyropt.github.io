@@ -1,5 +1,6 @@
 ---
-layout: Dynamical Modeling of Broad-line Regions in Active Galactic Nuclei
+title: Dynamical Modeling of Broad-line Regions in Active Galactic Nuclei
+layout: default
 modal-id: 6
 date: 2016-08-15
 img: research_1.png

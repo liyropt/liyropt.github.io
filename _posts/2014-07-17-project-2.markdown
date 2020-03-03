@@ -1,12 +1,13 @@
 ---
+title: Super-massive Black Hole Binaries
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: research_3.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2016
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: SMBH Binaries
+description: As a natural consequence of cosmological hierarchical structure formation, sub-parsec supermassive black hole binaries (SMBHBs) should be common in galaxies but thus far have eluded spectroscopic identification. Based on four decades of optical spectroscopic monitoring, we report that the nucleus of NGC 5548, a nearby Seyfert galaxy long suspected to have experienced a major merger about 1 billion yr ago, exhibits long-term variability with a period of ~14 yr in the optical continuum and broad Hβ emission line. Remarkably, the double-peaked profile of Hβ shows systematic velocity changes with a similar period. These pieces of observations plausibly indicate that an SMBHB resides in the center of NGC 5548. The complex, secular variations in the line profiles can be explained by orbital motion of a binary with equal mass and a semimajor axis of ~22 light-days (corresponding to ~18 milli-parsec). At a distance of 75 Mpc, NGC 5548 is one of the nearest sub-parsec SMBHB candidates that offers an ideal laboratory for gravitational wave detection.
 
 ---

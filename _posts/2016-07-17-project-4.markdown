@@ -1,0 +1,13 @@
+---
+title: A Non-parametric Approach to Constrain the Transfer Function in Reverberation Mapping
+layout: default
+modal-id: 4
+date: 2016-07-17
+img: research_4.png
+alt: image-alt
+project-date: April 2016
+client: <a href='https://iopscience.iop.org/article/10.3847/0004-637X/831/2/206'>Li et al. 2016, ApJ, 831, 206</a>
+category: Reverberation Mapping
+description: Broad emission lines of active galactic nuclei stem from a spatially extended region (broad-line region, BLR) that is composed of discrete clouds and photoionized by the central ionizing continuum. The temporal behaviors of these emission lines are blurred echoes of continuum variations (i.e., reverberation mapping, RM) and directly reflect the structures and kinematic information of BLRs through the so-called transfer function (also known as the velocity-delay map). Based on the previous works of Rybicki and Press and Zu et al., we develop an extended, non-parametric approach to determine the transfer function for RM data, in which the transfer function is expressed as a sum of a family of relatively displaced Gaussian response functions. Therefore, arbitrary shapes of transfer functions associated with complicated BLR geometry can be seamlessly included, enabling us to relax the presumption of a specified transfer function frequently adopted in previous studies and to let it be determined by observation data. We formulate our approach in a previously well-established framework that incorporates the statistical modeling of continuum variations as a damped random walk process and takes into account long-term secular variations which are irrelevant to RM signals. The application to RM data shows the fidelity of our approach.
+
+---

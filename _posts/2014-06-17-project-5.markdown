@@ -1,0 +1,13 @@
+---
+title: A Bayesian Method for the Intercalibration of Spectra in Reverberation Mapping 
+layout: default
+modal-id: 5
+date: 2014-07-17
+img: research_5.png
+alt: image-alt
+project-date: April 2014
+client: <a href='https://iopscience.iop.org/article/10.1088/2041-8205/786/1/L6'>Li et al. 2014, ApJL, 786, 6</a>
+category: Reverberation Mappong
+description: Flux calibration of spectra in reverberation mapping (RM) is most often performed by assuming the flux constancy of some specified narrow emission lines, which stem from an extended region that is sometimes partially spatially resolved, in contrast to the point-like broad-line region and the central continuum source. The inhomogeneous aperture geometries used among different observation sets in a joint monitoring campaign introduce systematic deviations to the fluxes of broad lines and central continuum, and intercalibration over these data sets is required. As an improvement to the previous empirical correction performed by comparing the (nearly) contemporaneous observation points, we describe a feasible Bayesian method that obviates the need for (nearly) contemporaneous observations, naturally incorporates physical models of flux variations, and fully takes into account the measurement errors. In particular, it fits all the data sets simultaneously regardless of samplings and makes use of all of the information in the data sets. A Markov Chain Monte Carlo implementation is employed to recover the parameters and uncertainties for intercalibration. Application to the RM data sets of NGC 5548 with joint monitoring shows the high fidelity of our method. 
+
+---

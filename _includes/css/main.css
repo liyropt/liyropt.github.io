@@ -252,6 +252,63 @@ section.success {
     }
 }
 
+#codes .codes-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#codes .codes-item .codes-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#codes .codes-item .codes-link .caption {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba({{ site.color.primary-rgb }},.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#codes .codes-item .codes-link .caption:hover {
+    opacity: 1;
+}
+
+#codes .codes-item .codes-link .caption .caption-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#codes .codes-item .codes-link .caption .caption-content i {
+    margin-top: -12px;
+}
+
+#codes .codes-item .codes-link .caption .caption-content h3,
+#codes .codes-item .codes-link .caption .caption-content h4 {
+    margin: 0;
+}
+
+#codes * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #codes .codes-item {
+        margin: 0 0 30px;
+    }
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
@@ -436,6 +493,65 @@ footer .footer-below {
 }
 
 .portfolio-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #{{ site.color.secondary }};
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.codes-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.codes-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.codes-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.codes-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+
+.codes-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.codes-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.codes-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #{{ site.color.secondary }};
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.codes-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;

@@ -6,7 +6,8 @@ date: 2014-07-15
 img: research_1.png
 alt: image-alt
 project-date: August 2016
-client: <a href='https://iopscience.iop.org/article/10.3847/1538-4357/aaee6b'>Li et al. 2018, ApJ, 869, 137</a>
+client: <a href='https://ui.adsabs.harvard.edu/abs/2013ApJ...779..110L/abstract'>Li et al. 2013, ApJ, 779, 110</a> 
+        <a href='https://ui.adsabs.harvard.edu/abs/2018ApJ...869..137L/abstract'>Li et al. 2018, ApJ, 869, 137</a>
 category: Reverberation Mapping
 description: We employ the recently developed dynamical modeling approach for broad-line regions (BLRs) based on the method of Pancoast et al. to analyze the RM data set of Mrk 142 observed in the first monitoring season. In this approach, continuum variations are reconstructed using a damped random walk process, and BLR structure is delineated using a flexible disk-like geometry, in which BLR clouds move around the central BH with Keplerian orbits or inflow/outflow motion. The approach also includes the possibilities of anisotropic emission from BLR clouds, nonlinear response of the line emission to the continuum, and different long-term trends in the continuum and emission-line variations. We implement the approach in a Bayesian framework that is apt for parallel computation and use a Markov chain Monte Carlo technique to recover the parameters and uncertainties for the modeling, including the mass of the central BH. We apply three BLR models with different prescriptions of BLR cloud distributions and find that the best model for fitting the data of Mrk 142 is a two-zone BLR model, consistent with the theoretical BLR model surrounding slim accretion disks. The best model yields a BH mass of $\mathrm{log}({M}_{\bullet }/{M}_{\odot })={6.23}_{-0.45}^{+0.26}$, resulting in a virial factor of $\mathrm{log}f=-{0.36}_{-0.54}^{+0.33}$ for the full width at half maximum of the Hβ line measured from the mean spectrum. The virial factors for the other measures of the Hβ line width are also presented.
 

@@ -6,7 +6,8 @@ date: 2014-07-18
 img: research_2.png
 alt: image-alt
 project-date: April 2012
-client: <a href='https://iopscience.iop.org/article/10.1088/0004-637X/749/2/187'>Li et al. 2013, ApJ, 749, 187</a>
+client: <a href='https://iopscience.iop.org/article/10.1088/0004-637X/749/2/187'>Li et al. 2013, ApJ, 749, 187</a>, 
+        <a href='https://iopscience.iop.org/article/10.1088/0004-637X/749/2/187'>Li et al. 2013, ApJ, 749, 187</a>
 category: SMBH Spins
 description: Using the continuity equation of SMBH number density, we explicitly obtain the mass-dependent cosmological evolution of the radiative efficiency for accretion, which serves as a proxy for SMBH spin. Our calculations make use of the SMBH mass function of active and inactive galaxies, the bolometric luminosity function of active galactic nuclei (AGNs), corrected for the contribution from Compton-thick sources, and the observed Eddington ratio distribution. We find that the radiative efficiency generally increases with increasing black hole mass at high redshifts (z >~ 1), while the trend reverses at lower redshifts, such that the highest efficiencies are attained by the lowest mass black holes. Assuming that the standard accretion disk model applies, we suggest that the accretion history of SMBHs and their accompanying spins evolves in two distinct regimes, an early phase of prolonged accretion, plausibly driven by major mergers, during which the black hole spins up, then switching to a period of random, episodic accretion, governed by minor mergers and internal secular processes, during which the hole spins down. The transition epoch depends on mass, mirroring other evidence for "cosmic downsizing" in the AGN population; it occurs at z ≈ 2 for high-mass black holes and somewhat later, at z ≈ 1, for lower mass systems. 
 

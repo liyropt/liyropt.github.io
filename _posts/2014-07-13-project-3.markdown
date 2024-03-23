@@ -1,15 +1,14 @@
 ---
-title: Spectroastrometry and Reverberation Mapping of Active Galactic Nuclei 
+title: Dynamical Modeling of Broad-line Regions in Active Galactic Nuclei 
 layout: default
-modal-id: 7
-date: 2024-03-23
+modal-id: 3
+date: 2014-07-15
 img: research_1.png
 alt: image-alt
-project-date: March 2024
-client: <a href='https://ui.adsabs.harvard.edu/abs/2023ApJ...943...36L/abstract'>Li & Wang 2023, ApJ, 943, 36</a>, 
-        <a href='https://ui.adsabs.harvard.edu/abs/2022ApJ...927...58L/abstract'>Li et al. 2022, ApJ, 727, 58</a>
-category: Spectroastrometric Reverberation Mapping
-description: Spectroastrometry measures source astrometry as a function of wavelength/velocity.  Reverberations of spectroastrometric signals naturally arise in broad-line regions (BLRs) of active galactic nuclei (AGNs) as a result of the continuum variations that drive responses of the broad emission lines with time delays. Such signals provide a new diagnostic for mapping BLR kinematics and geometry, complementary to the traditional intensity reverberation mapping (RM) technique. We present a generic mathematical formalism for spectroastrometric RM and show that under realistic parameters of a phenomenological BLR model, the spectroastrometric reverberation signals vary on a level of several to tens of microarcseconds, depending on the BLR size, continuum variability, and angular-size distance. We also derive the analytical expressions of spectroastrometric RM for an inclined ring-like BLR. We develop a Bayesian framework with a sophisticated Monte Carlo sampling technique to analyze spectroastrometric data and infer the BLR properties, including the central black hole mass and angular-size distance. 
-We demonstrate the potential of spectroastrometric RM in spatially resolving BLR kinematics and geometry through a suite of simulation tests. The application to realistic observation data of 3C 273 obtains tentative, but enlightening results, reinforcing the practical feasibility of conducting spectroastrometric RM experiments on bright AGNs with the operating Very Large Telescope Interferometer as well as possibly with the planned next-generation 30 m class telescopes. 
+project-date: August 2016
+client: <a href='https://ui.adsabs.harvard.edu/abs/2013ApJ...779..110L/abstract'>Li et al. 2013, ApJ, 779, 110</a> 
+        <a href='https://ui.adsabs.harvard.edu/abs/2018ApJ...869..137L/abstract'>Li et al. 2018, ApJ, 869, 137</a>
+category: Reverberation Mapping
+description: We employ the recently developed dynamical modeling approach for broad-line regions (BLRs) based on the method of Pancoast et al. to analyze the RM data set of Mrk 142 observed in the first monitoring season. In this approach, continuum variations are reconstructed using a damped random walk process, and BLR structure is delineated using a flexible disk-like geometry, in which BLR clouds move around the central BH with Keplerian orbits or inflow/outflow motion. The approach also includes the possibilities of anisotropic emission from BLR clouds, nonlinear response of the line emission to the continuum, and different long-term trends in the continuum and emission-line variations. We implement the approach in a Bayesian framework that is apt for parallel computation and use a Markov chain Monte Carlo technique to recover the parameters and uncertainties for the modeling, including the mass of the central BH. We apply three BLR models with different prescriptions of BLR cloud distributions and find that the best model for fitting the data of Mrk 142 is a two-zone BLR model, consistent with the theoretical BLR model surrounding slim accretion disks. The best model yields a BH mass of $\mathrm{log}({M}_{\bullet }/{M}_{\odot })={6.23}_{-0.45}^{+0.26}$, resulting in a virial factor of $\mathrm{log}f=-{0.36}_{-0.54}^{+0.33}$ for the full width at half maximum of the Hβ line measured from the mean spectrum. The virial factors for the other measures of the Hβ line width are also presented.
 
 ---

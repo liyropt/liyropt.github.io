@@ -1,28 +1,13 @@
 ---
-title: Spectroastrometry and Reverberation Mapping of Active Galactic Nuclei
+title: Untangling Optical Emissions of the Jet and Accretion Disk in the Flat-Spectrum Radio Quasar 3C 273 with Reverberation Mapping Data
 layout: default
-modal-id: 7
-date: 2024-03-23
-img: research_7.png
+modal-id: 6
+date: 2020-05-20
+img: research_6.png
 alt: image-alt
 project-date: May 2020
-client: <a href='https://ui.adsabs.harvard.edu/abs/2023ApJ...943...36L/abstract'>Li & Wang 2023, ApJ, 943, 36</a>, 
-        <a href='https://ui.adsabs.harvard.edu/abs/2022ApJ...927...58L/abstract'>Li et al. 2022, ApJ, 727, 58</a>
-category: SARM
-description: Spectroastrometry measures source astrometry as a function of wavelength/velocity. 
-Reverberations of spectroastrometric signals naturally arise in broad-line regions (BLRs) of active galactic nuclei (AGNs) 
-as a result of the continuum variations that drive responses of the broad emission lines with time delays. 
-Such signals provide a new diagnostic for mapping BLR kinematics and geometry, complementary to the traditional 
-intensity reverberation mapping (RM) technique. We present a generic mathematical formalism for spectroastrometric 
-RM and show that under realistic parameters of a phenomenological BLR model, the spectroastrometric reverberation 
-signals vary on a level of several to tens of microarcseconds, depending on the BLR size, continuum variability, 
-and angular-size distance. We also derive the analytical expressions of spectroastrometric RM for an inclined 
-ring-like BLR. We develop a Bayesian framework with a sophisticated Monte Carlo sampling technique to analyze 
-spectroastrometric data and infer the BLR properties, including the central black hole mass and angular-size distance. 
-We demonstrate the potential of spectroastrometric RM in spatially resolving BLR kinematics and geometry through a 
-suite of simulation tests. The application to realistic observation data of 3C 273 obtains tentative, but 
-enlightening results, reinforcing the practical feasibility of conducting spectroastrometric RM experiments on 
-bright AGNs with the operating Very Large Telescope Interferometer as well as possibly with the planned 
-next-generation 30 m class telescopes. 
+client: <a href='https://ui.adsabs.harvard.edu/abs/2020ApJ...897...18L/abstract'>Li et al. 2020, ApJ, 897, 18</a>
+category: Reverberation Mappong
+description: 3C 273 is an intensively monitored flat-spectrum radio quasar with both a beamed jet and blue bump together with broad emission lines. The coexistence of the comparably prominent jet and accretion disk leads to complicated variability properties. Recent reverberation mapping monitoring for 3C 273 revealed that the optical continuum shows a distinct long-term trend that does not have a corresponding echo in the Hbeta fluxes. We compile multi-wavelength monitoring data from the Swift archive and other ground-based programs and clearly find two components of emissions at optical wavelength. One component stems from the accretion disk itself and the other component can be ascribed to the jet contribution, which also naturally accounts for the non-echoed trend in reverberation mapping data. We develop an approach to decouple the optical emissions from the jet and accretion disk in 3C 273 with the aid of multi-wavelength monitoring data. By assuming the disk emission has a negligible polarization in consideration of the low inclination of the jet, the results show that the jet contributes a fraction of ~10% at the minimum and up to ~40% at the maximum to the total optical emissions. This is the first time to provide a physical interpretation to the "detrending" manipulation conventionally adopted in reverberation mapping analysis. Our work also illustrates the importance of appropriately analyzing variability properties in cases of coexisting jets and accretion disks. 
 
 ---

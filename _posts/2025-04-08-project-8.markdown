@@ -1,0 +1,27 @@
+---
+title: Measuring Geometric Distances of Quasars with SARM 
+layout: default
+modal-id: 8
+date: 2025-04-08
+img: research_8.png
+alt: image-alt
+project-date: April 2025
+client: <a href='https://ui.adsabs.harvard.edu/abs/2024ApJ...974...86L/abstract'>Li et al. 2024, ApJ, 974, 86</a>, 
+        <a href='https://ui.adsabs.harvard.edu/abs/2025arXiv250218856L/abstract'>Li et al. 2025, ApJ, submitted</a>
+category: Spectroastrometric Reverberation Mapping
+description: The geometric distances of active galactic nuclei (AGNs) are challenging to measure because of their 
+exceptionally compact structure yet vast cosmic distances. A combination of spectroastrometry and reverberation 
+mapping (SARM) of broad-line regions (BLRs) constitutes a novel means to probe the geometric distance of 
+AGNs, which has recently become practically feasible owing to successful interferometric observations with
+VLTI/GRAVITY. Here, we perform SARM analysis of four nearby quasars: Mrk 509, PDS 456, 3C 273, and
+NGC 3783. Results for the former two are reported for the first time and the latter two are revisited using
+our improved BLR dynamical modeling that includes the radial-dependent responsivity of BLRs. This allows
+us to self-consistently account for the emissivity weighting of the BLR in spectroastrometry and responsivity
+weighting in reverberation mapping. We obtain angular-diameter distances of the four quasars, from which we
+derive a Hubble constant of H0=69-10+12 km/s/Mpc . Although this consititutes a large uncertainty for a
+measurement of H0 , it is anticipated that the precision will improve to a competitive level once a greater number
+of AGNs are accessible following the upgrade of GRAVITY in the near future. From SARM analysis, the black
+hole masses of the four quasars are also measured with the statistical uncertainty ranging from 0.06 to 0.23 dex,
+consistent with the correlations between black hole masses and properties of the host bulges.
+
+---
